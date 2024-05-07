@@ -3,13 +3,9 @@
 
 - 🔥 Junior Web Developer in progress! 
 
-- 🔭 I’m currently studying Java script
+- 🔭 I’m currently studying Python
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
-- ⚡ Fun fact **Oneye 😜**
-
-- 👨‍💻 More at ( in progress)
 
 <!--
 
